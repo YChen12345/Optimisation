@@ -1,0 +1,14 @@
+﻿  raster.cpp
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\colour.h(32,19): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\colour.h(33,19): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\colour.h(34,19): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\mesh.h(186,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\mesh.h(191,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\renderer.h(9,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(41,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(42,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(167,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(168,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(169,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\Rasterizer\raster.cpp(173): warning C4715: 'makeRandomRotation': not all control paths return a value
+  Rasterizer.vcxproj -> C:\Users\graphics\Dropbox\Projects\C++\Games Engineering\Rasterizer\x64\Debug\Rasterizer.exe
