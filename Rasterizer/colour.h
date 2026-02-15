@@ -77,6 +77,13 @@ public:
         return c;
     }
 
+    colour operator * (const float scalar) const {
+        colour c;
+        c.r = r * scalar;
+        c.g = g * scalar;
+        c.b = b * scalar;
+        return c;
+    }
     // Multiplies the RGB components of this colour with another colour.
     // Input Variables:
     // - col: The other color to multiply with
